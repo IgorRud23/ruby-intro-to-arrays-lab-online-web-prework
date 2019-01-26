@@ -1,0 +1,1 @@
+@comand = ["one", "two", "three"]
