@@ -1,1 +1,2 @@
-@comand = ["one", "two", "three"]
+@my_new_array = ["dog", "cat", "mouse", "Tom", "Jerry"]
+
