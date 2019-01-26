@@ -28,5 +28,5 @@ def last_element_with_array_methods(last_element)
 end
 
 def length_of_array(length)
-  ["Ruby", "Javascript", "Python", "C++", "Java", "Lisp", "PHP", "Clojure"].length
+  ["Ruby", "Javascript", "Python", "C++", "Java", "Lisp", "PHP", "Clojure"].count
 end
